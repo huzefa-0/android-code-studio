@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_live_preview">Live Preview</string>
+    <string name="action_toggle_live_preview">Toggle Live Preview</string>
+    <string name="action_enable_live_preview">Enable Live Preview</string>
+    <string name="action_disable_live_preview">Disable Live Preview</string>
+    <string name="msg_live_preview_enabled">Live Preview is now enabled</string>
+    <string name="msg_live_preview_disabled">Live Preview is now disabled</string>
+    <string name="msg_live_preview_error">Error in Live Preview: %s</string>
+    <string name="msg_live_preview_no_views">No views found in layout</string>
+    <string name="msg_live_preview_inflating">Inflating layout...</string>
+    <string name="hint_live_preview">Edit XML to see live updates in the preview pane</string>
+</resources>
